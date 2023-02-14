@@ -14,7 +14,7 @@
           <div class="rounded-lg h-200 overflow-hidden">
             <img alt="content" class="object-cover object-center h-200 w-500" src="TAPAS_MEMORIASDELAORILLA.jpg">
           </div>
-          <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Ficcionario</h2>
+          <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Memorias de la orilla</h2>
           <p class="text-base leading-relaxed mt-2">Memorias de la orilla es una novela que narra la historia de un profesor de historia, con una historia familiar y laboral muy particular...</p>
           <a class="text-red-500 inline-flex items-center mt-3" href="https://mpago.la/11itR4g">Comprar libro
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
