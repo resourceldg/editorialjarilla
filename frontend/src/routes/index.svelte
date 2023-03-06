@@ -26,4 +26,4 @@
 <figure class=" xs:w-1/2 flex flex-wrap items-center justify-center">
 	<img alt='Editorial Jarilla' src='logo.svg'>
 </figure>
-<p class="link text-base font-serif italic md:text-lg"><a href="about"> “ Escritores trabajando para Escritores...”</a></p>
+<p class="link text-base font-serif italic md:text-lg"><a href="about"> “Escritores trabajando para escritores ...”</a></p>
