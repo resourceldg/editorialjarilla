@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
-    "build": "npm run build:tailwindcss && sapper build --legacy",
-    "export": "npm run build:tailwindcss && sapper export --legacy",
+    "build": "npm run build:tailwindcss && sapper export",
+    "export": "npm run build:tailwindcss && sapper export",
     "dev:tailwindcss": "postcss static/tailwind.css -o static/main.css -w",
     "build:tailwindcss": "NODE_ENV=production postcss static/tailwind.css -o static/main.css",
     "start": "node __sapper__/build",
