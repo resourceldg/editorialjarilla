@@ -17,7 +17,7 @@
           <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Memorias de la orilla</h2>
           <p class="text-base leading-relaxed mt-2">Esta novela se entreteje con recuerdos y ficciones que acompañan 
             la historia de dos familias que habitan el mismo suelo y viven distintas realidades...</p>
-          <a class="text-red-500 inline-flex items-center mt-3" href="https://mpago.la/11itR4g">Comprar libro
+          <a class="text-red-500 inline-flex items-center mt-3" href="https://mpago.la/12rG1Jd">Comprar libro
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
